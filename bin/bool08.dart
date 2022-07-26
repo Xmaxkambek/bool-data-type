@@ -8,7 +8,7 @@
     */
 
 bool func(int a) {
-  return a > -1;
+  return a > -2;
 }
 
 void main() {
